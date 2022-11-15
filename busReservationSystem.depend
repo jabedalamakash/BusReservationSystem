@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668487780 source:c:\bus\busreservationsystem\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<map>
+
+1668483781 source:c:\c++\untitled1.cpp
+	<iostream>
+
